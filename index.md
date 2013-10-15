@@ -38,6 +38,10 @@ Interested? Read the [introduction](https://github.com/manastech/crystal/wiki/In
 
 Questions or suggestions? Ask in our [Google Group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang) or join our IRC channel #crystal-lang at irc.freenode.net
 
+#### Status
+
+The project is in pre-alpha stage: we are still designing the language and prototying a compiler in Ruby, while at the same time writing a compiler in Crystal.
+
 #### Latest entries from our blog:
 
 {% for post in site.posts %}
